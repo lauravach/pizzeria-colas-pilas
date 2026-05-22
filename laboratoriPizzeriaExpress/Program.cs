@@ -8,8 +8,10 @@
  */
 using System;
 using System.Windows.Forms;
+using laboratoriPizzeriaCampusExpress;
+using System.Collections.Generic;
 
-namespace laboratoriPizzeriaExpress
+namespace laboratoriPizzeriaCampusExpress
 {
 	/// <summary>
 	/// Class with program entry point.
